@@ -1,4 +1,4 @@
-# Hi, I'm Babar Yaqoob 👋
+# Hi, I'm Babar Khan 👋
 
 I'm an MSc Artificial Intelligence student at ECE Paris, focused on building practical AI, data, and automation systems.  
 My work combines Python, machine learning, NLP, computer vision, LLM workflows, semantic retrieval, cloud ML pipelines, dashboards, and applied software engineering.
